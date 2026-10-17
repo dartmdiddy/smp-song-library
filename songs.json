@@ -1,0 +1,30 @@
+{
+  "songs": [
+    {
+      "id": "torii-wolf-no-one-knows-but-me",
+      "title": "No One Knows But Me",
+      "artist": "Torii Wolf (vorläufige Zuordnung)",
+      "status": "unverified",
+      "rights": "Nicht bestätigt — bitte vor einer Nutzung Rechteinhaber ermitteln.",
+      "license": "Ungeprüft",
+      "notes": "Möglicher Treffer anhand der erinnerten Lyrics. Titel und Künstler sind noch nicht zuverlässig verifiziert; daher kein Download-Link.",
+      "source": "https://m.youtube.com/watch?v=tHFluyfniOY",
+      "rightsUrl": "https://www.google.com/search?q=Torii+Wolf+official+contact+licensing",
+      "downloadUrl": "",
+      "added": "2026-10-17"
+    },
+    {
+      "id": "park-lane-lakesha-nugent-home-again",
+      "title": "Home Again",
+      "artist": "Park Lane feat. LaKesha Nugent",
+      "status": "verified",
+      "rights": "Urheberrechtlich geschützt; Veröffentlichung bei Epidemic Sound.",
+      "license": "Nicht als kostenlos frei verwendbar bestätigt. Für die Nutzung in Videos die aktuellen Lizenzbedingungen von Epidemic Sound prüfen.",
+      "notes": "Veröffentlicht am 2020-05-08. Kein kostenloser Download-Link ergänzt, da keine freie Download- und Nutzungslizenz bestätigt wurde.",
+      "source": "https://m.youtube.com/watch?v=HACJWIrg1eQ",
+      "rightsUrl": "https://www.epidemicsound.com/release/home-again/",
+      "downloadUrl": "",
+      "added": "2026-10-17"
+    }
+  ]
+}
